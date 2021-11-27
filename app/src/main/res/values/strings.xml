@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">IT1</string>
-    <string name="enter_your_roll_number">ENTER YOUR ROLL NUMBER</string>
-    <string name="enter_your_stream">ENTER YOUR STREAM</string>
-    <string name="enter_your_section">ENTER YOUR SECTION</string>
-    <string name="enter_your_college_name">ENTER YOUR COLLEGE NAME</string>
-    <string name="enter_your_name">ENTER YOUR NAME</string>
-</resources>
